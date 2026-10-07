@@ -5,7 +5,7 @@ dev-stack-builder - README.md
 
 A modern web application built with React and Tailwind CSS that allows developers to design, customize, and configure their ideal software development technology stacks.
 
-🔗 **Live Demo:** [https://dev-stack-builder.vercel.app](https://dev-stack-builder.vercel.app) *(Update link if needed)*
+🔗 **Live :** [https://dev-stack-builder.vercel.app](https://dev-stack-builder.vercel.app) **
 
 ---
 
