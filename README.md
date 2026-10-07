@@ -1,27 +1,24 @@
-dev-stack-builder - README.md
-
-```markdown
 # 🚀 Dev Stack Builder
 
-A modern web application built with React and Tailwind CSS that allows developers to design, customize, and configure their ideal software development technology stacks.
+Dev Stack Builder is a modern web application built with **React** and **Tailwind CSS** that helps developers select, visualize, and assemble their tech stack easily.
 
-🔗 **Live :** [https://dev-stack-builder.vercel.app](https://dev-stack-builder.vercel.app) **
+🔗 **Live Demo:** [https://dev-stack-builder-chi.vercel.app](https://dev-stack-builder-chi.vercel.app)
 
 ---
 
 ## 🛠️ Main Technologies Used
-- **Frontend Library:** React.js (Vite / Create React App)
+- **Frontend:** React.js, JavaScript
 - **Styling:** Tailwind CSS
-- **Icons:** Lucide React / React Icons
+- **Icons:** React Icons / Lucide React
 - **Deployment:** Vercel
 
 ---
 
 ## ✨ Key Features
-- **Interactive Stack Customization:** Select and combine frontend, backend, database, and DevOps tools effortlessly.
-- **Real-Time Preview:** Instantly view and analyze your configured technology stack summary.
-- **Responsive Layout:** Clean and modern UI optimized for all screen sizes.
-- **Smooth Navigation:** Fast interactions and intuitive component design.
+- **Tech Stack Selection:** Browse and select technologies across frontend, backend, and tools.
+- **Custom Builder:** Easily add or remove skills to build your personalized stack.
+- **Responsive UI:** Clean, intuitive, and fully responsive layout for all screen sizes.
+- **Fast Performance:** Lightweight and optimized interface for smooth user experience.
 
 ---
 
@@ -29,7 +26,6 @@ A modern web application built with React and Tailwind CSS that allows developer
 - `react`
 - `react-dom`
 - `tailwindcss`
-- `lucide-react`
 
 ---
 
